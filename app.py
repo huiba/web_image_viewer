@@ -10,7 +10,7 @@ app = Flask(__name__)
 app.secret_key = 'your_secret_key'  # Set a secret key for session management
 
 # Set your base directory (adjust as needed)
-BASE_DIR = '/home/ai-server'
+BASE_DIR = '/path/to/basedir'
 
 def numerical_sort_key(filename):
     parts = re.split(r'(\d+)', filename)
