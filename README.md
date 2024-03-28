@@ -1,5 +1,5 @@
 
-# Simple Flask Image Browser
+# Simple Flask based Web Image Browser
 
 ## Introduction
 This Flask application provides a web interface for browsing through images stored in a specific directory on the server. It also features an option to apply histogram equalization to any image, enhancing its contrast for better visibility. This functionality is particularly useful for viewing images in environments where lighting conditions may not be ideal, or for images that are naturally low in contrast.
